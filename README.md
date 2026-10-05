@@ -8,7 +8,7 @@ Tarkov Info Bot searches the Tarkov Wiki and returns the appropriate result dire
 
 | Command | Search |
 |---------|--------|
-| `!info` | Quests |
+| `!info` | Side Quests |
 | `!item` | Items |
 | `!key` | Keys and keycards |
 | `!ammo` | Ammunition |
