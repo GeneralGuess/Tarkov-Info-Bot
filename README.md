@@ -80,7 +80,7 @@ community.
 
 The streamer can also use the commands for quick access to the Wiki.
 
-Tarkov Info Bot operates through Streamer.bot using code written by novice/hobbyist developer GeneralGuess on Twitch.
+Tarkov Info Bot operates through Streamer.bot using code written by beginner/hobbyist developer GeneralGuess on Twitch.
 
 How Do I Get It?
 
